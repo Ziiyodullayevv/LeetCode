@@ -37,8 +37,3 @@ const numberOfEmployeesWhoMetTarget = (hours, target) => {
   return count;
 };
 
-let res = numberOfEmployeesWhoMetTarget(hours, target);
-console.log(res);
-
-let set = new Set([1,2,2,3])
-console.log([...set]);
