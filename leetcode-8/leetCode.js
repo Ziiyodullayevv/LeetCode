@@ -21,7 +21,7 @@
 // Explanation: There are only two items matching the given rule, which are ["phone","blue","pixel"] and ["phone","gold","iphone"]. Note that the item ["computer","silver","phone"] does not match.
 
 // variant-1:
-
+  
 var countMatches1 = function (items, ruleKey, ruleValue) {
   let rule = 0;
   let count = 0;
